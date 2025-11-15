@@ -1,0 +1,10 @@
+{
+    "maintainers": [
+        { "name": "Julia B", "email": "jb@example.com" }
+    ],
+    "homepage": "http://xpad-bre-03-nuc.criticaltechworks.com/autostars/multicast_listener_service",
+    "repository": "http://xpad-bre-03-nuc.criticaltechworks.com/autostars/multicast_listener_service.git",
+    "versions": [
+        "0.0.1"
+    ]
+}

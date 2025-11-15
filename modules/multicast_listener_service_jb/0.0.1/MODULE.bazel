@@ -1,0 +1,15 @@
+module(
+    name = "multicast_listener_service_jb",
+    version = "0.0.1",
+    compatibility_level = 0,
+)
+
+bazel_dep(name = "nlohmann_json", version = "3.12.0")
+bazel_dep(name = "googletest", version = "1.17.0.bcr.2")
+
+#HOW to find these?? bazel doens't provide central info
+bazel_dep(name = "rules_python", version = "1.5.1")
+python = use_extension("@rules_python//python/extensions:python.bzl", "python")
+python.toolchain(
+    python_version = "3.11",
+)
