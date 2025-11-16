@@ -1,0 +1,10 @@
+{
+    "maintainers": [
+        { "name": "Julia B", "email": "jb@example.com" }
+    ],
+    "homepage": "http://xpad-bre-03-nuc.criticaltechworks.com/juliabrito-ctw/bazel_registry",
+    "repository": "http://xpad-bre-03-nuc.criticaltechworks.com/juliabrito-ctw/bazel_registry.git",
+    "versions": [
+        "0.0.1"
+    ]
+}

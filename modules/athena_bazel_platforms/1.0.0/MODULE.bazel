@@ -1,0 +1,23 @@
+module(
+    name = "athena_bazel_platforms",
+    version = "1.0.0",
+    compatibility_level = 0,
+)
+
+bazel_dep(name = "rules_cc", version = "0.0.10")
+
+platform(
+    name = "linux_x86_64",
+    constraint_values = [
+        "@platforms//os:linux",
+        "@platforms//cpu:x86_64",
+    ],
+)
+
+platform(
+    name = "android_arm64",
+    constraint_values = [
+        "@platforms//os:android",
+        "@platforms//cpu:arm64",
+    ],
+)
