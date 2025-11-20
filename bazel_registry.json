@@ -1,8 +1,8 @@
 {
     /*mirrors: an array of URLs, specifying the list of mirrors to use for source archives*/
-    "mirrors": ["http://xpad-bre-03-nuc.criticaltechworks.com/juliabrito-ctw/multicast_listener_service_jb"], //??
+    "mirrors": [], //??
     //The registry can declare certain versions as yanked if they should be avoided (such as for security vulnerabilities).
-    "versions": ["0.0.1"],
+    "versions": ["1.0.0"],
     "yanked_versions": {},
     "maintainers": [
         { "name": "Julia B", "email": "jb@example.com" }
