@@ -5,6 +5,6 @@
     "versions": ["1.0.0"],
     "yanked_versions": {},
     "maintainers": [
-        { "name": "Julia Brito", "email": "julia.brito@criticaltechworks.com" }
+        { "name": "Julia", "email": "j@example.com" }
     ]
 }

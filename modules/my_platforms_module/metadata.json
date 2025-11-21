@@ -1,9 +1,9 @@
 {
     "maintainers": [
-        { "name": "Julia Brito", "email": "julia.brito@criticaltechworks.com" }
+        { "name": "Julia", "email": "j@example.com" }
     ],
-    "homepage": "http://xpad-bre-03-nuc.criticaltechworks.com/juliabrito-ctw/bazel_platforms",
-    "repository": "http://xpad-bre-03-nuc.criticaltechworks.com/juliabrito-ctw/bazel_platforms.git",
+    "homepage": "https://github.com/Juh-Roch/bazel_platforms",
+    "repository": "https://github.com/Juh-Roch/bazel_platforms.git",
     "versions": [
         "1.0.0"
     ]
