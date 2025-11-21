@@ -1,5 +1,5 @@
 {
-    "url": "http://xpad-bre-03-nuc.criticaltechworks.com/juliabrito-ctw/bazel_platforms/-/archive/v1.0.0/bazel_platforms-v1.0.0.tar.gz",
+    "url": "http://xpad-bre-03-nuc.criticaltechworks.com/juliabrito-ctw/bazel_platforms/-/release/v1.0.0/bazel_platforms-v1.0.0.tar.gz",
     "integrity": "sha256-pO+S8aCiLY4Pm4IxsQ44fIcDGxC14VDBHm7U9GRJ7JE=",
     "strip-prefix": "bazel_platforms-v1.0.0"
 }
