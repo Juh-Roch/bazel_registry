@@ -1,9 +1,10 @@
 {
     "maintainers": [
         {
-            "name": "Julia",
+            "name": "Juh Roch",
             "email": "juhbra@outlook.com",
-            "github": "Juh-Roch"
+            "github": "Juh-Roch",
+            "github_user_id": 42747164
         }
     ],
     "homepage": "https://github.com/Juh-Roch/bazel_platforms",
