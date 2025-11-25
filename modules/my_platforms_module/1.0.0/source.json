@@ -1,6 +1,5 @@
 {
     "url": "https://github.com/Juh-Roch/bazel_platforms/archive/refs/tags/v1.0.0.tar.gz",
     "integrity": "sha256-MorRdJc+ky7Dc++9myXCxr6V5sZYbUwcMfzyicCcsdc=",
-    "strip-prefix": "bazel_platforms-1.0.0",
-    "type": "git_repository"
+    "strip-prefix": "bazel_platforms-1.0.0"
 }
